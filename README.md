@@ -43,3 +43,6 @@ bash run.sh
 ### Copyright & License
 - Copyright &copy; 2021 &mdash; [WeebTime](https://github.com/WeebTime)
 - Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE](./LICENSE)
+
+
+https://heroku.com/deploy
