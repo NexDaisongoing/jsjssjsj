@@ -1,0 +1,1 @@
+gunicorn app:VideoEncoder & python3 -m VideoEncoder
